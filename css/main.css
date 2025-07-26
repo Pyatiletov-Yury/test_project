@@ -25,3 +25,15 @@ main {
 main h2 {
   font-size: 40px;
 }
+
+footer {
+  margin-top: 10px;
+  background-color: rgb(88, 97, 85);
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+}
+footer h3 {
+  font-size: 40px;
+  color: #fff;
+}
